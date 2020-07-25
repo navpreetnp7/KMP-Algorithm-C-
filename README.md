@@ -1,1 +1,1 @@
-# KMP-Algorithm-C-
+# KMP-Algorithm-C++
