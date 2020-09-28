@@ -1,1 +1,1 @@
-# KMP-Algorithm-C++
+# KMP String matching Algorithm
